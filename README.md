@@ -1,1 +1,1 @@
-# tea-shop-website
+#This is a tea shop website.
